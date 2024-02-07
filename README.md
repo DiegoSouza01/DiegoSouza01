@@ -7,4 +7,4 @@ Aluno de Analise e desenvolvimento de Sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desbimo&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desbimo)](https://github.com/Desbimo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Desbimo)
