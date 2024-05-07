@@ -5,14 +5,14 @@
 ### Detalhes
 
 <div>
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=Desbimo&show_icons=true&count_private=true&theme=tokyonight"/> <img width= "330em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Desbimo&layout=compact"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza01&show_icons=true&count_private=true&theme=tokyonight"/> <img width= "330em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza01&layout=compact"/>
 </div>
    
 <div style="display: inline_block"><br>
-  <img align="center" alt="Desbimo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Desbimo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Desbimo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Desbimo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="DiegoSouza01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DiegoSouza01-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="DiegoSouza01-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="DiegoSouza01-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
