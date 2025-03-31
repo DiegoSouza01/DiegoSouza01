@@ -6,7 +6,7 @@ Estudante de Engenharia de Software e Desenvolvedor Back-end Júnior | Java & Sp
 ### Detalhes
 
 <div>
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza01&show_icons=true&count_private=true&theme=tokyonight"/> <img width= "330em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza01&layout=compact"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza01&show_icons=true&count_private=true&theme=codeSTACKr"/> <img width= "330em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza01&layout=compact"/>
 </div>
    
 <div style="display: inline_block"><br>
