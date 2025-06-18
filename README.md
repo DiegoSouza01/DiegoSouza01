@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Diego de Souza
  
 #### Sobre o Diego
-Estudante de Engenharia de Software e Desenvolvedor Back-end Júnior | Java & Spring Boot | APIs REST
+Estudante de Engenharia de Software e Desenvolvedor Full-Stack Júnior | JavaScript & Node.JS | Java & Spring Boot | APIs REST
 
 ### Detalhes
 
