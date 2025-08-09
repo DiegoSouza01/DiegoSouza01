@@ -9,18 +9,15 @@ Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & No
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza01&show_icons=true&count_private=true&theme=codeSTACKr"/> <img width= "267em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza01&layout=compact"/>
 </div>
    
-<div style="display: inline_block"><br>
-  <img align="center" alt="DiegoSouza01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DiegoSouza01-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="DiegoSouza01-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="DiegoSouza01-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DiegoSouza01-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="DiegoSouza01-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,js,ts,react,html,css,java,spring,kotlin,idea,figma,anaconda,django,py,pycharm,aws,docker,mysql,vercel&theme=dark" />
+  </a>
+</p>
 
-##
-
-<div>
-  <a href = "diegodecstraid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-souza-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <a href = "diegodecstraid@gmail.com"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/diego-souza-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" target="_blank"></a></a> 
+  </a>
+</p>
