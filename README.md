@@ -17,7 +17,7 @@ Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & No
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <a href = "diegodecstraid@gmail.com"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/diego-souza-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" target="_blank"></a></a> 
+   <a href = "diegodecstraid@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/diego-souza-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a></a> 
   </a>
 </p>
