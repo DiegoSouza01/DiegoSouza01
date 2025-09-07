@@ -1,6 +1,5 @@
-### Oii! Eu sou o Diego de Souza
+### Olá! Eu sou o Diego de Souza
  
-#### Sobre o Diego
 Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & Node.JS | Java & Spring Boot | APIs REST | Docker
 
 ### Detalhes
@@ -11,7 +10,7 @@ Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & No
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,js,ts,react,html,css,java,spring,idea,figma,anaconda,py,pycharm,aws,docker,postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,react,java,spring,idea,docker,postgresql&theme=dark" />
   </a>
 </p>
 
