@@ -1,4 +1,4 @@
-### Olá! Eu sou o Diego de Souza
+### Olá! Eu sou o Diego
  
 Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & Node.JS | Java & Spring Boot | APIs REST | Docker | PostgreSQL
 
