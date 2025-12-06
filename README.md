@@ -6,7 +6,7 @@ Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & No
 
 <div>
 <img width="371em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoSouza01&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- <img width= "267em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza01&layout=compact"/>
+   <img height="147em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoSouza01&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
    
 <p align="center">
