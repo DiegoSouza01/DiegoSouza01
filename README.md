@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diego
  
-Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & Node.JS | Java & Spring Boot | APIs REST | Docker | PostgreSQL
+Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & Node.JS | Java & Spring Boot | Angular | APIs REST | Docker | PostgreSQL
 
 ### Detalhes
 
