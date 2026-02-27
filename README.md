@@ -11,7 +11,7 @@ Estudante de Engenharia de Software e Desenvolvedor Full-Stack | JavaScript & No
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,react,java,spring,idea,docker,postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,angular,java,spring,idea,docker,postgresql&theme=dark" />
   </a>
 </p>
 
